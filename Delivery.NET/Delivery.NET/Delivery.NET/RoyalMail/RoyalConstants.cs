@@ -8,5 +8,6 @@
         internal const string EmptyUsername = "Please specify your Royal Mail API username";
         internal const string InvalidUsername = "Please specify valid username that is your Royal Mail API email";
         internal const string InvalidClientId = "Please specify your valid Royal Mail application client id";
+        internal const string RoyalMailAuthenticationDataException = "One of the values are not valid. Check more inside Errors object";
     }
 }

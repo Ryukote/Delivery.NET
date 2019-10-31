@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <Folder Include="DHL\" />
-    <Folder Include="RoyalMail\Exceptions\" />
   </ItemGroup>
 
   <ItemGroup>
